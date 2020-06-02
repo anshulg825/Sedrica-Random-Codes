@@ -1,0 +1,59 @@
+1) How remote teams communicate (meet plans and all) ??
+
+
+
+2) (options) video call platform for remote teams ?
+
+Zoom
+Google hangouts
+flock 	
+miro
+skype meetnow
+
+
+
+3) How can the maximum efficieny of out slack ??
+
+Standardize the way your teammates report where they’re working and their work status from with Workflow Builder - https://slack.com/intl/en-in/slack-tips/update-teammates-on-your-work-status
+Manager can check which person is doing what work today
+
+Timed reminders to engage in healthy work habits (optional) - https://slack.com/intl/en-in/slack-tips/stay-healthy-while-working-from-home
+
+daily standup is a useful way to keep teams aligned and communicate status - https://slack.com/intl/en-in/slack-tips/daily-reminder-to-post-standup-in-channel
+This can be used as a reminder to people to post their updates and current work
+
+https://slack.com/intl/en-in/slack-tips/get-feedback-no-meeting-required - for getting feedbacks from team members
+
+Share meeting notes (yet to find the link)
+
+Adding external apps support to your slack - github, drive,calender, simple poll(used to create polls), workast(Workast connects seamlessly with your Slack account so you and your team are ready to create and assign tasks in minutes)
+Workast is helpful for us
+Zoom, hangouts, gmail is on slack
+
+Set highlight words - maybe, you want to stay in the loop on keywords or phrases ( in prefenreces ->notif -> my keywords)
+
+Slack bot has reminders
+
+You can message slackbot for keeping important memos and informations
+
+@everyone to send notif to everyone, @here to send notifs to only that group members that are online, @group or @channel for particular channel
+
+Slack can post google calender reminders too
+
+Slackbot has three important purposes :
+To find answers to your questions about Slack.
+To add customized automatic responses.
+To access personal reminders and tasks.
+
+Slack has astro (additional app): which can help in emails operation
+
+Standuply can be used (app to track teams progress)
+
+Clockwise is a app which can be used to set up daily routine or work schedules
+
+Send a message later function can be used to notify someone of their work
+
+https://slack.com/intl/en-in/slack-tips/boost-work-productivity - see this link for some apps functions
+
+
+
